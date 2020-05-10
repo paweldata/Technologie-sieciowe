@@ -3,3 +3,7 @@ Rozwiązania zadań z kursu Technologie sieciowe na kierunku informatyka na Wydz
 
 ### Lista 2
 - Niezawodność sieci
+
+### Lista 3
+- Ramkowanie metodą rozpychania bitów
+- Symulacja medium transmisyjnego (CSMA/CD)
